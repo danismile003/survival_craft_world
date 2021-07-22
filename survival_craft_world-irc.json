@@ -1,11 +1,11 @@
 [
   {
-    "id": "10072afxx",
-    "init": 1,
+    "id": "104800b91",
+    "init": 10,
     "note": "default",
     "pack": "",
-    "pe1": 90,
-    "pe2": 150,
+    "pe1": 190,
+    "pe2": 250,
     "status": true
   }
 ]
